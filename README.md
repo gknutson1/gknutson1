@@ -1,5 +1,5 @@
 ## Hello!
-I am a student at Eastern Wasnington University, currently studying for a degree in Computer Science!
+I am a software developer, recently graduated with a Bachelor of Computer Science from Eastern Washington University.
 
 My focus lies in:
 
